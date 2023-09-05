@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# **Phạm Trọng Nghĩa**
+![concho](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLz57scUnX8QREVnwuWnJIyL_4z6b0ZGS_w&usqp=CAU)
+
+**Student**
+
+**University of Mining and Geology of Hanoi**
+
+**Computer Networking**
+
+**Graduation date: 2024**
+
+**English proficiency: Advanced**
+
+**GDSC HUMG member**
+
+**Skills**
+
+* Programming languages: Python, Java, C/C++
+* Networking technologies: Linux, Docker, Kubernetes
+
+
+
+**Objective**
+
+To find a challenging and rewarding career in the field of computer science.
+
+**Contact Information**
+
+* Email: phamtrongnghia@gmail.com
