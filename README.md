@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **Graduation date: 2024**
 
-**English proficiency: Advanced**
+**English proficiency: Intermediate**
 
 **GDSC HUMG member**
 
